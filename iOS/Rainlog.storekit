@@ -1,0 +1,27 @@
+{
+  "identifier": "Rainlog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "10000001",
+      "localizations": [
+        {
+          "description": "Monthly/yearly totals chart and drought-comparison notes",
+          "displayName": "Rainlog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.rainlog.pro",
+      "referenceName": "Rainlog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
