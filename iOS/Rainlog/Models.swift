@@ -6,5 +6,4 @@ struct RainlogEntry: Identifiable, Codable, Equatable {
     var date: Date
     var inches: String
     var notes: String
-    var notes: String = ""
 }
